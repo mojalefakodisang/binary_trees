@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_siblings - checks for the sibling of the node
+ * binary_tree_sibling - checks for the sibling of the node
  *
  * @node: pointer to a node to be checked
  *
